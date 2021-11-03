@@ -9,6 +9,19 @@ sites:
     check: "tcp-ping"
     url: 185.157.247.55
     port: 10000
+  - name: Survie
+    check: "tcp-ping"
+    url: 185.157.247.55
+    port: 10001
+  - name: Lobby
+    check: "tcp-ping"
+    url: 185.157.247.55
+    port: 10002
+  - name: Bases de données
+    check: "tcp-ping"
+    url: 185.157.247.55
+    port: 10000
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,12 +31,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Wilderia, en direct
   introTitle: "Surveillez l'état de nos serveurs de jeux **en direct**"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: "Nos serveurs de jeux ne sont malheureusement pas parfaits et **peuvent subir des pannes**. Suivez-ici l'avancement de nos maintenances."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Site
+      href: https://wilderia.fr
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
