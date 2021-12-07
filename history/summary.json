@@ -4,10 +4,10 @@
     "url": "https://wilderia.fr",
     "icon": "https://favicons.githubusercontent.com/wilderia.fr",
     "slug": "site-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 647,
@@ -15,7 +15,9 @@
     "timeWeek": 541,
     "timeMonth": 550,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-07": 2
+    }
   },
   {
     "name": "Proxy",
