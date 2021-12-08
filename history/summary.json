@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/wilderia.fr",
     "slug": "site-web",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 644,
-    "timeDay": 561,
-    "timeWeek": 538,
-    "timeMonth": 549,
-    "timeYear": 644,
-    "dailyMinutesDown": {
-      "2021-12-07": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 643,
+    "timeDay": 572,
+    "timeWeek": 540,
+    "timeMonth": 554,
+    "timeYear": 643,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proxy",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 147,
-    "timeWeek": 115,
-    "timeMonth": 116,
-    "timeYear": 119,
+    "time": 120,
+    "timeDay": 150,
+    "timeWeek": 117,
+    "timeMonth": 118,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 151,
-    "timeWeek": 115,
-    "timeMonth": 116,
-    "timeYear": 119,
+    "time": 120,
+    "timeDay": 150,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 149,
-    "timeWeek": 115,
-    "timeMonth": 116,
-    "timeYear": 119,
+    "time": 120,
+    "timeDay": 150,
+    "timeWeek": 117,
+    "timeMonth": 118,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
+    "time": 120,
     "timeDay": 150,
-    "timeWeek": 115,
-    "timeMonth": 116,
-    "timeYear": 119,
+    "timeWeek": 117,
+    "timeMonth": 118,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   }
 ]
